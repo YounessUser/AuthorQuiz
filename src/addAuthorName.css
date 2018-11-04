@@ -1,0 +1,12 @@
+.addAuthorName {
+  width: 80%;
+  margin: 50px 10%;
+}
+
+.addAuthorName__input {
+  margin-bottom: 20px;
+}
+
+.addAuthorName__input > label {
+  display: block;
+}
